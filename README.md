@@ -1,5 +1,6 @@
 - the goat
-- im gonna make a linux distro someday
+- ubuntu is on top 
+
 <!---
 nonnumbered/nonnumbered is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
