@@ -70,16 +70,21 @@ I'm a dedicated developer with a love for clean code, user experience, and conti
 
 ## 🏆 Achievements & Certifications
 
+### **Java Certified** | Suncoast High School
+*May 2025 - Present*
+- Achieved Java certification through rigorous coursework and examination
+- Developed strong foundational and advanced Java programming skills
+- Participated in collaborative coding projects and peer code reviews
 
 
 ---
 
 ## 🌟 What I'm Working On
 
-- 🔧 Building a new portfolio website with Next.js
-- 📚 Learning Rust and WebAssembly
-- 🤖 Contributing to open-source AI projects
-- 📱 Developing a mobile app for productivity
+- java deploma 
+- asm
+- css & html
+
 
 ---
 
