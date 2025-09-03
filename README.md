@@ -10,6 +10,7 @@ Welcome to my portfolio! I'm passionate about creating innovative solutions and 
 
 I'm a dedicated developer with a love for clean code, user experience, and continuous learning. When I'm not coding, you can find me exploring new technologies, contributing to open source, doing something random.
 
+- rose pine is amazing
 **What drives me:**
 - ✨ Building products that make a difference
 - 🔍 Solving complex problems with elegant solutions
